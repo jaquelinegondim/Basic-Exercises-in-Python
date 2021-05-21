@@ -23,8 +23,8 @@
 - [x] 15. Reverse Word Order  
 - [x] 16. Password Generator 
 - [x] 17. Decode A Web Page 
-- [ ] 18. Cows And Bulls   
-- [ ] 19. Decode A Web Page Two 
+- [x] 18. Cows And Bulls   
+- [x] 19. Decode A Web Page Two 
 - [ ] 20. Element Search 
 - [ ] 21. Write To A File 
 - [ ] 22. Read From File   
