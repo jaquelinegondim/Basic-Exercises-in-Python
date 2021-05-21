@@ -22,7 +22,7 @@
 - [x] 14. List Remove Duplicates  
 - [x] 15. Reverse Word Order  
 - [x] 16. Password Generator 
-- [ ] 17. Decode A Web Page 
+- [x] 17. Decode A Web Page 
 - [ ] 18. Cows And Bulls   
 - [ ] 19. Decode A Web Page Two 
 - [ ] 20. Element Search 
@@ -43,7 +43,7 @@
 - [ ] 35. Birthday Months     
 - [ ] 36. Birthday Plots     
 
-I intend to finish this list before next month (May, 2021).
+I intend to finish this list in June, 2021.
 
 
  
