@@ -25,7 +25,7 @@
 - [x] 17. Decode A Web Page 
 - [x] 18. Cows And Bulls   
 - [x] 19. Decode A Web Page Two 
-- [ ] 20. Element Search 
+- [x] 20. Element Search 
 - [ ] 21. Write To A File 
 - [ ] 22. Read From File   
 - [ ] 23. File Overlap  
