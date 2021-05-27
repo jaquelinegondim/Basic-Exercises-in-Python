@@ -27,7 +27,7 @@
 - [x] 19. Decode A Web Page Two 
 - [x] 20. Element Search 
 - [x] 21. Write To A File 
-- [ ] 22. Read From File   
+- [x] 22. Read From File   
 - [ ] 23. File Overlap  
 - [ ] 24. Draw A Game Board   
 - [ ] 25. Guessing Game Two   
