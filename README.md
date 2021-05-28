@@ -28,7 +28,7 @@
 - [x] 20. Element Search 
 - [x] 21. Write To A File 
 - [x] 22. Read From File   
-- [ ] 23. File Overlap  
+- [x] 23. File Overlap  
 - [ ] 24. Draw A Game Board   
 - [ ] 25. Guessing Game Two   
 - [ ] 26. Check Tic Tac Toe   
