@@ -29,7 +29,7 @@
 - [x] 21. Write To A File 
 - [x] 22. Read From File   
 - [x] 23. File Overlap  
-- [ ] 24. Draw A Game Board   
+- [x] 24. Draw A Game Board   
 - [ ] 25. Guessing Game Two   
 - [ ] 26. Check Tic Tac Toe   
 - [ ] 27. Tic Tac Toe Draw   
