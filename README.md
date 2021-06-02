@@ -14,7 +14,7 @@
 - [x] 6. String Lists
 - [x] 7. List Comprehensions
 - [x] 8. Rock Paper Scissors  
-- [x] 9. Guessing Game One   
+- [x] 9. Guessing Game I   
 - [x] 10. List Overlap Comprehensions   
 - [x] 11. Check Primality Functions 
 - [x] 12. List Ends 
@@ -24,13 +24,13 @@
 - [x] 16. Password Generator 
 - [x] 17. Decode A Web Page 
 - [x] 18. Cows And Bulls   
-- [x] 19. Decode A Web Page Two 
+- [x] 19. Decode A Web Page II 
 - [x] 20. Element Search 
 - [x] 21. Write To A File 
 - [x] 22. Read From File   
 - [x] 23. File Overlap  
 - [x] 24. Draw A Game Board   
-- [ ] 25. Guessing Game Two   
+- [x] 25. Guessing Game II   
 - [ ] 26. Check Tic Tac Toe   
 - [ ] 27. Tic Tac Toe Draw   
 - [ ] 28. Max Of Three 
