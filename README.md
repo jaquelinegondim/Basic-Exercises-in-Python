@@ -32,7 +32,7 @@
 - [x] 24. Draw A Game Board   
 - [x] 25. Guessing Game II   
 - [x] 26. Check Tic Tac Toe   
-- [ ] 27. Tic Tac Toe Draw   
+- [x] 27. Tic Tac Toe Draw   
 - [ ] 28. Max Of Three 
 - [ ] 29. Tic Tac Toe Game   
 - [ ] 30. Pick Word    
