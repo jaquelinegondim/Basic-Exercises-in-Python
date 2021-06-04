@@ -31,7 +31,7 @@
 - [x] 23. File Overlap  
 - [x] 24. Draw A Game Board   
 - [x] 25. Guessing Game II   
-- [ ] 26. Check Tic Tac Toe   
+- [x] 26. Check Tic Tac Toe   
 - [ ] 27. Tic Tac Toe Draw   
 - [ ] 28. Max Of Three 
 - [ ] 29. Tic Tac Toe Game   
