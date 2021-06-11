@@ -44,7 +44,9 @@ def checkGrid(grid):
 
 	# rows
 	for x in range(3):
+        # set items are unordered, unchangeable, and do not allow duplicate values
 		row = set([grid[x][0],grid[x][1],grid[x][2]])
+        # since a set does not allow a duplicate value, its length will be equal to one if there is a winner
 		if len(row) == 1 and grid[x][0] != 0:
 			return grid[x][0]
 
