@@ -107,3 +107,39 @@ print("Média de idade dos homens:", round((avgMen / men), 2))
     c) A média de idade do grupo
     d) Quantos homens tem mais de 30 anos
     e) Quantas mulheres tem menos de 18 anos '''
+
+print("\nQuestão 60")
+nomePessoas = []
+idadePessoas = []
+nomeMulheres = []
+idadeMedia = 0
+idadeMulheres = []
+homens30 = 0
+mulheres18 = 0
+answer = ""
+pessoas = 0
+while answer != "N":
+    nome = input("Digite seu nome: ")
+    nomePessoas.append(nome)
+    idade = int(input("Digite sua idade: "))
+    idadePessoas.append(idade)
+    idadeMedia += idade
+    pessoas += 1
+    gender = input("Digite o seu gênero [F/M]: ")
+    gender = test(gender)
+    if gender == "F":
+        idadeMulheres.append(idade)
+        nomeMulheres.append(nome)
+        if idade < 18:
+            mulheres18 += 1
+    else:
+        if idade > 30:
+            homens30 += 1
+    answer = input("Você deseja incluir novos dados? [S/N] ")
+    answer = exit(answer)
+
+print("\nNome da pessoa mais velha:", nomePessoas[idadePessoas.index(max(idadePessoas))])
+print("Nome da mulher mais jovem:", nomeMulheres[idadeMulheres.index(min(idadeMulheres))])
+print("Média de idade do grupo:", round((idadeMedia / pessoas), 2))
+print("Homens com mais de 30 anos:", homens30)
+print("Mulheres com menos de 18 anos:", mulheres18)
