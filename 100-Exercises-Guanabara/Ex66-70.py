@@ -60,3 +60,26 @@ print("Média de peso entre as mulheres:", round(soma / mulheres, 2))
 print("Maior peso entre os homens:", max(homens))
 
 ''' 69) [DESAFIO] Desenvolva um programa que leia o primeiro termo e a razão de uma PA (Progressão Aritmética), mostrando na tela os 10 primeiros elementos da PA e a soma entre todos os valores da sequência. '''
+
+print("\nQuestão 69")
+soma = 0
+num = int(input("Qual é o primeiro termo da PA? "))
+razao = int(input("Qual é a razão da PA? "))
+print("Dez primeiros termos da PA:", end=" ")
+for i in range(10):
+    x = num + i * razao
+    print(x, end=" ")
+    soma += x
+print("\nSoma dos dez primeiros termos da PA:", soma)
+
+''' 70) [DESAFIO] Faça um programa que mostre os 10 primeiros elementos da Sequência de Fibonacci: 1 1 2 3 5 8 13 21... '''
+
+print("\nQuestão 70")
+num1 = 1
+num2 = 0
+print("Dez primeiros termos da sequência de Fibonacci:", end=" ")
+for i in range(10):
+    print(num1, end=" ")
+    num = num1 + num2
+    num2 = num1
+    num1 = num
