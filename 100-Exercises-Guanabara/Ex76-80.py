@@ -41,3 +41,23 @@ else:
         print(i + 1, end=" ")
 
 ''' 79) Desenvolva um programa que leia 10 números inteiros e guarde-os em um vetor. No final, mostre quais são os números pares que foram digitados e em que posições eles estão armazenados. '''
+
+print()
+print("\nQuestão 79\n")
+x = []
+pares = []
+position = []
+for i in range(10):
+    x.append(random.randint(1, 1000))
+print(x)
+for i in range(10):
+    if x[i] % 2 == 0:
+        pares.append(x[i])
+        position.append(x.index(x[i]))
+if position == []:
+    print("Sem múltiplos de 2")
+else:
+    print("Números pares:", pares)
+    print("Posição dos múltiplos de 2:", end=" ")
+    for i in position:
+        print(i + 1, end=" ")
