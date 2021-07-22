@@ -2,7 +2,9 @@
 
  Understanding basic algorithms by solving exercises in Python. 
 
- The website [Pratice Python](https://www.practicepython.org/) offers 36 problems to teach the basic syntax of the Python language.
+ The course [Introduction to Algorithms](https://www.cursoemvideo.com/course/curso-de-algoritmo/) offered by Brazilian teacher Gustavo Guanabara has a [list](https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-algoritmos.pdf ) with 100 exercises to practice conditional statements, loops, functions, and other basic structures. Besides that, at the end of each class, there are assignments to be solved as well. My answers for the list are [here](https://github.com/jaquelinegondim/Basic-Exercises-in-Python/tree/main/100-Exercises-Guanabara), and I am currently working on the assignments.
+
+ In addition, the website [Pratice Python](https://www.practicepython.org/) offers 36 problems to teach the basic syntax of the Python language.
 
  The following list shows which exercises I already solved:
 
@@ -42,10 +44,5 @@
 - [ ] 34. Birthday Json    
 - [ ] 35. Birthday Months     
 - [ ] 36. Birthday Plots     
-
-I intend to finish this list in June, 2021.
-
-
- 
 
 
